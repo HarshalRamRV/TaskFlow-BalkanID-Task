@@ -27,8 +27,8 @@ Before you begin, ensure you have the following tools installed:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/BalkanID-University/cit-2025-batch-2024-summer-internship-HarshalRamRV
-   cd cit-2025-batch-2024-summer-internship-HarshalRamRV
+   git clone https://github.com/HarshalRamRV/TaskFlow-BalkanID-Task
+   cd TaskFlow-BalkanID-Task
    ```
 
 2. Install backend and frontend dependencies:

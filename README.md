@@ -2,11 +2,6 @@
 
 TaskFlow is a containerized task management system inspired by Atlassian Jira. It provides user authentication, authorization, and access management. Users can register, authenticate, manage their accounts, and interact with tasks. The system is built using React.js, MySQL, and Docker for containerization.
 
-# Details
-
-- Full Name: Harshal Ram R V
-- Department: CSE
-- Eamil: 71762205201@cit.edu.in
 
 ## Table of Contents
 
